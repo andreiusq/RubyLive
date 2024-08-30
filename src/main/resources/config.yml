@@ -1,0 +1,11 @@
+messages:
+  startlive_no_permission: "&cYou do not have permission to use this command."
+  startlive_already_active: "&cSomeone is already in control of the live."
+  startlive_no_players: "&cNo other players are online to spectate."
+  startlive_broadcast: "&c&LRUBY LIVE >> &r&f{player} has now the control of the live."
+  live_no_controller: "&cNo one is currently in control of the live."
+  live_on_cooldown: "&cYou must wait {minutes} minutes and {seconds} seconds before using /live again."
+  live_broadcast: "&c&LRUBY LIVE >> &r&f{player} is now followed by {controller}."
+  stoplive_no_control: "&cYou are not currently in control of the live or no one is in control."
+  stoplive_broadcast: "&c&LRUBY LIVE >> &r&f{player} stopped the live."
+  action_bar_message: "&eCamera control is at &f{target}"

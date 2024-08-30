@@ -1,0 +1,14 @@
+name: RubyLive
+version: '1.0-SNAPSHOT'
+main: org.andreiusq.rubyLive.RubyLive
+api-version: '1.20'
+commands:
+  startlive:
+    description: Start live mode and spectate a random player.
+    usage: /startlive
+  live:
+    description: Move the current live controller to spectate you.
+    usage: /live
+  stoplive:
+    description: Stop live.
+    usage: /stoplive
